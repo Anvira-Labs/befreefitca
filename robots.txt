@@ -1,9 +1,6 @@
 # Search engines and AI answer engines are welcome.
 User-agent: *
 Allow: /
-Disallow: /template-a.html
-Disallow: /template-b.html
-Disallow: /template-c.html
 
 User-agent: Googlebot
 Allow: /
