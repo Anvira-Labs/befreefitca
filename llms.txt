@@ -1,19 +1,32 @@
 # Befree Inc
 
-> Befree Inc is a Canadian technology company based in Ontario. It owns and operates health-tech products and provides software, cloud, SaaS and AI engineering services for startups and growing businesses in Canada, the US and India.
+> Befree Inc is a Canadian technology company based in Ontario (Greater Toronto Area). It builds and operates its own health-tech products and provides software, SaaS, cloud and AI engineering services for startups and growing businesses in Canada, the US and India.
 
 ## Products
-- BeFree (https://www.befree.fit/): personalized food and nutrition app with food profiling, product scanning and smart grocery guidance. Live.
+- BeFree app (https://www.befree.fit/): personalized food and nutrition app with food profiling, barcode and label scanning, allergy and restriction alerts, and smart grocery guidance. Live.
 - JobPulse (jobpulse.work): in build. No public details yet.
 
 ## Services
-- Product engineering: MVPs, SaaS, web and mobile apps, APIs.
-- Modernization and scale: legacy migration, AWS/GCP cost and performance, DevOps.
-- AI integration: LLM/RAG features, document and workflow automation.
-- Technology advisory: fractional CTO, architecture review, technical due diligence.
+- Product engineering: MVPs, SaaS platforms, web and mobile apps, APIs, payments and integrations.
+- Modernization and scale: legacy migration, AWS and GCP cost and performance audits, DevOps and CI/CD, observability.
+- AI integration: LLM and RAG features, document and workflow automation, enterprise AI architecture.
+- Technology advisory: fractional CTO (typically 1-2 days a week), architecture review, technical due diligence.
 
-## Founder
-Vipan Kumar, Founder and CEO. 15+ years building SaaS and enterprise platforms. https://vipan.me/
+## Founder and related organizations
+- Vipan Kumar, Founder and CEO, 15+ years building SaaS and enterprise platforms: https://vipan.me/
+- Anvira Labs, delivery partner (Gurugram, India and Brampton, Canada): https://www.anviralabs.com/
+- LinkedIn: https://www.linkedin.com/company/befreehealth
+
+## Notes
+Results shown on the site (OnGrid, Dresma, Lenskart, Maruti Suzuki RFID) are the founder's earlier roles and consulting work, not Befree Inc client engagements.
+
+## FAQ
+- What does Befree Inc do? Befree Inc is a Canadian technology company. We build and operate our own health-tech products, including the BeFree food and nutrition app, and we provide software, SaaS, cloud and AI engineering services for startups and growing businesses.
+- Which services can I hire Befree Inc for? Product engineering (MVPs, SaaS, web and mobile apps, APIs), modernization and migration of existing systems, AWS and GCP cost and performance audits, DevOps and CI/CD, LLM and RAG integration, and fractional CTO and technical due diligence.
+- Where is Befree Inc based and who do you work with? We are based in Ontario, Canada, in the Greater Toronto Area. We work with clients across Canada, the United States and India, with delivery supported by our partner Anvira Labs.
+- What is the BeFree app? BeFree is a personalized food and nutrition app. It builds a profile from your health goals and dietary needs, scans products, flags ingredients and allergens that matter to you, and helps with smarter grocery choices. Learn more at befree.fit.
+- Can you act as our fractional CTO? Yes. Fractional CTO engagements typically run one to two days a week and cover architecture decisions, engineering roadmaps, hiring and team structure, and code and architecture reviews.
+- How do we start working with Befree Inc? Email info@befreefit.ca or book a call. We usually begin with a short fixed-fee discovery to agree goals, risks and scope before any build work starts.
 
 ## Contact
-info@befreefit.ca · https://calendly.com/contactvips/
+info@befreefit.ca . Book a call: https://calendly.com/contactvips/ . https://befreefit.ca/
