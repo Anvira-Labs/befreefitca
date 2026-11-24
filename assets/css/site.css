@@ -148,3 +148,7 @@ footer .fine{margin-top:40px;padding-top:20px;border-top:1px solid #22332c;font-
 .reveal{opacity:0;transform:translateY(14px);transition:.6s}
 .reveal.in{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}html{scroll-behavior:auto}}
+
+/* Logo */
+.brand-logo{width:40px;height:40px;border-radius:10px;object-fit:cover}
+.product-logo{width:88px;height:88px;border-radius:20px;margin-bottom:16px;box-shadow:0 10px 30px -14px rgba(0,0,0,.35)}
