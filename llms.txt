@@ -1,0 +1,19 @@
+# Befree Inc
+
+> Befree Inc is a Canadian technology company based in Ontario. It owns and operates health-tech products and provides software, cloud, SaaS and AI engineering services for startups and growing businesses in Canada, the US and India.
+
+## Products
+- BeFree (https://www.befree.fit/): personalized food and nutrition app with food profiling, product scanning and smart grocery guidance. Live.
+- JobPulse (jobpulse.work): in build. No public details yet.
+
+## Services
+- Product engineering: MVPs, SaaS, web and mobile apps, APIs.
+- Modernization and scale: legacy migration, AWS/GCP cost and performance, DevOps.
+- AI integration: LLM/RAG features, document and workflow automation.
+- Technology advisory: fractional CTO, architecture review, technical due diligence.
+
+## Founder
+Vipan Kumar, Founder and CEO. 15+ years building SaaS and enterprise platforms. https://vipan.me/
+
+## Contact
+info@befreefit.ca · https://calendly.com/contactvips/
