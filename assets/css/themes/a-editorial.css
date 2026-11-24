@@ -1,0 +1,19 @@
+/* Template A — Editorial (Thoughtworks-inspired): stark black/white, serif headlines, hot-pink accent, sharp corners */
+:root:root{--ink:#0b0b0c;--ink-2:#333;--ink-3:#666;--paper:#fff;--warm:#f4f2ef;--line:#d9d6d1;--green:#e5256b;--green-deep:#b0124d;--green-tint:#fde6ee;--lime:#ff7aa8;--band:#0b0b0c;--band-ink:#fff;--band-dim:#b5b1ab;--r:0px;
+  --sans:'Helvetica Neue',Helvetica,Arial,sans-serif;color-scheme:light}
+h1,h2{font-family:Georgia,'Times New Roman',serif;font-weight:400;letter-spacing:-.02em}
+h1{font-size:clamp(2.6rem,7vw,5.4rem);line-height:1.02}
+.hero h1{max-width:18ch}
+.hero{background:var(--paper);border-bottom:1px solid var(--ink)}
+.btn{border-radius:0;text-transform:uppercase;letter-spacing:.08em;font-size:.8rem}
+.btn-primary{background:var(--green);color:#fff}.btn-primary:hover{background:var(--ink)}
+.card,.step,.proof,.cofounders li,.chips span,input,select,textarea,.avatar,.avatar img,.cofounders img{border-radius:0}
+.card{border:0;border-top:3px solid var(--ink);padding:24px 0;background:transparent}
+.alt .card{background:transparent}
+.band .card{border-top-color:var(--green);background:transparent}
+.tag{border-radius:0}.chips span{border-radius:0}
+.nav .brand svg rect{fill:var(--green)}.nav .brand svg path{fill:#fff}
+.metric{border-top:0;border-left:4px solid var(--green);padding:4px 0 4px 18px}
+.metric b{font-family:Georgia,serif;font-weight:400}
+.proof{border-color:var(--ink)}
+.phone{border-radius:0}
