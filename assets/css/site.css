@@ -163,3 +163,12 @@ footer .fine{margin-top:40px;padding-top:20px;border-top:1px solid #22332c;font-
 .faq details[open] summary::after{content:"\2212"}
 .faq p{margin-top:12px;color:var(--ink-2)}
 .faq a{color:var(--green);text-decoration:underline}
+
+/* Migration paths */
+.moves{border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:var(--paper)}
+.move{display:grid;grid-template-columns:1fr 1fr;gap:14px;padding:16px 18px;border-top:1px solid var(--line);font-size:.95rem}
+.move:first-child{border-top:0}
+.move span:first-child{color:var(--ink-3)}
+.move span:last-child{font-weight:600}
+.move.head{background:var(--green-tint);font-family:var(--mono);font-size:.74rem;letter-spacing:.1em;text-transform:uppercase}
+.move.head span{color:var(--green-deep)}
