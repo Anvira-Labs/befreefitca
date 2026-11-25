@@ -12,6 +12,11 @@
 - BeFree app (https://www.befree.fit/): food and nutrition app. Modules: identity and access, profiles and preferences, AI product analysis, history and insights. Live.
 - JobPulse (jobpulse.work): in build. No public details yet.
 
+## Work done
+- DroneCraft Rides (Shivpuri, India), founder's independent consulting engagement: automated video platform turning site camera and drone footage into branded films, live in production. https://vipan.me/work/dronecraft.html
+- Write-up: https://medium.com/@vipankverma03/scaling-a-video-platform-on-one-server-sleep-at-night-measure-the-rush-forecast-honestly-c8c2685f1844
+- Write-up: https://medium.com/@vipankverma03/i-shipped-10-production-releases-in-3-days-with-an-ai-engineering-team-heres-the-playbook-55fc219a4b5b
+
 ## Founder and related organizations
 - Vipan Kumar, Founder and CEO, 15+ years building SaaS and enterprise platforms: https://vipan.me/
 - Anvira Labs, delivery partner (Gurugram, India and Brampton, Canada): https://www.anviralabs.com/
