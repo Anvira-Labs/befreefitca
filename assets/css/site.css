@@ -174,7 +174,7 @@ footer .fine{margin-top:40px;padding-top:20px;border-top:1px solid #22332c;font-
 .move.head span{color:var(--green-deep)}
 
 /* Company brand */
-.logo-header{width:146px;height:45px}
+.logo-header{width:149px;height:52px}
 .logo-chip{display:inline-block;background:#fff;border-radius:14px;padding:12px 16px}
 .logo-chip img{width:230px;height:auto}
 .hero .container{position:relative}
@@ -184,4 +184,3 @@ footer .fine{margin-top:40px;padding-top:20px;border-top:1px solid #22332c;font-
 /* Menu button until there is room for the full menu beside the wide logo */
 @media(max-width:1179px){.nav ul{display:none}.menu-btn{display:inline-flex}#nav-cta{margin-left:auto;margin-right:12px}}
 @media(min-width:1180px){.nav ul{gap:20px;white-space:nowrap}}
-.hero-mark{background:#fff;border-radius:36px;padding:20px}
