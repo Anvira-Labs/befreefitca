@@ -2,6 +2,11 @@
 
 > Befree Inc is a Canadian technology company based in Ontario (Greater Toronto Area). It digitizes business processes, migrates legacy systems to modern stacks and provides managed engineering outsourcing, and it owns and operates its own products.
 
+## Pages
+- Capabilities: https://befreefit.ca/capabilities.html
+- Migration: https://befreefit.ca/migration.html
+- Work done: https://befreefit.ca/work.html
+
 ## Capabilities
 - Process digitization: workflow and approval automation, document processing, dashboards and integrations.
 - Stack migration and modernization: re-platforming, data and cloud migration (AWS, GCP), CI/CD and observability.
