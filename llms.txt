@@ -13,6 +13,14 @@
 - Managed outsourcing: programmes, dedicated teams, application support and maintenance.
 - Technology leadership: fractional CTO, architecture review, technical due diligence.
 
+## What our leadership brings (founder experience, not Befree Inc client work)
+- High-throughput systems and compliance readiness: 10x Kafka throughput with no added infrastructure; led SOC 2 Type 1. (OnGrid · full-time role)
+- AI infrastructure cost optimization: GPU servers cut from 12 to 5 for the same output. (Dresma · full-time role)
+- Scaling business operations: Orders scaled from 300–500 to 8,000+ a day with the same small team. (Lenskart · full-time role)
+- Multi-tenant SaaS and retail systems: Multi-tenant POS across 700+ retail locations. (SignCatch and Walmart KDP · full-time role)
+- Building engineering teams: First engineer; team grown from 1 to about 15. (Gigforce · full-time role)
+- Industrial IoT: Architecture of an active RFID worker-safety system, live in 4 plants. (Maruti Suzuki India · technical advisor)
+
 ## Own products and modules
 - BeFree app (https://www.befree.fit/): food and nutrition app. Modules: identity and access, profiles and preferences, AI product analysis, history and insights. Live.
 - JobPulse (jobpulse.work): in build. No public details yet.
