@@ -42,3 +42,4 @@ User-agent: DuckAssistBot
 Allow: /
 
 Sitemap: https://befreefit.ca/sitemap.xml
+Sitemap: https://befreefit.ca/sitemap-main.xml
